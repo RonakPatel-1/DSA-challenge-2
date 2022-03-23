@@ -6,6 +6,7 @@ Have attached the limited Data set into Domwonload folder which can be accessed/
 https://github.com/RonakPatel-1/DSA-challenge-2/tree/main/download
 
 **Data set:**
+
 There are two things training set folder which has the list of movie(s) id, ratings and year since the data set was very large almost not possible ot upload so have taken sample 12 files attached in above link.
 Next file under download is the movie titles text file which has the list of movies.
 https://github.com/RonakPatel-1/DSA-challenge-2/blob/main/download/movie_titles.txt
@@ -13,6 +14,7 @@ https://github.com/RonakPatel-1/DSA-challenge-2/blob/main/download/movie_titles.
 Based upon the limited data set just to do a poc have attached the code.
 
 **Code:**
+
 Here we will be using the Netflix DAta set and will be using two Data structure of Python as https://github.com/RonakPatel-1/DSA-challenge-2/blob/main/DSAchallenege2.ipynb in jupyter notebook with python latest versoin of 3.9.x
 
 i am not gonna use panda since data is very large so there are chances to run out of memeory instead will use inbuilt DSA   dictioanry 
